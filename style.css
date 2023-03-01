@@ -1,0 +1,48 @@
+.heading{
+    width:100%;
+    height:15%;
+    text-align:left;
+    background-color: #91A659;
+    color:#A7B87A;
+}
+.heading h3{
+    display:inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    
+    
+}
+.heading button{
+    float:right;
+    border: 1px solid white;
+}
+.big_image{
+    width:100%;
+}
+#start,#status{
+    font-size:22px;
+}
+#instruction-button{
+    background-color: #91A659;
+    color:#A7B87A;
+    font-size: 25px;
+}
+#copyright_footer{
+    position:fixed;
+    bottom:0px;
+    width: 100%;
+    color:white;
+    text-align:center;
+    background-color: darkolivegreen;   
+    line-height:3;
+    font-family: 'Reggae One', cursive;
+   }
+.modal-dialog{
+    width:90%;
+    font-size:20px; 
+    font-family: 'Times New Roman', Times, serif;
+}
+canvas{
+    border: 2px dotted green;
+    align-content: center;
+}
